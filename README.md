@@ -2,7 +2,7 @@
 
 Collection of Nasheeds. These are intended to backup purposes, should not be shared or distributed.
 
-[Download here](https://github.com/Nasheeds/collection/releases)
+[Download here 📥](https://github.com/Nasheeds/collection/releases) 
 
 --- 
 ## Version 2018-03-19
